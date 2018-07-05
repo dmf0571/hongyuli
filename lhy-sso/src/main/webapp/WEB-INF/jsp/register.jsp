@@ -14,13 +14,13 @@
 <body>
 <div class="w" id="logo">
     <div>
-    	<a href="http://www.taotao.com">
+    	<a href="http://localhost:8080">
     		<img src="/images/taotao-logo.gif" alt="淘淘商城" width="170" height="60"/>
     	</a> <b></b>
     </div>
 </div>
 
-<div class="w" id="regist">
+<bod class="w" id="regist">
     <div class="mt">
         <ul class="tab">
             <li class="curr">个人用户</li>

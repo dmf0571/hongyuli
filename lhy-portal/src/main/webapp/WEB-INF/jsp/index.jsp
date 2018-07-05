@@ -63,7 +63,7 @@
 <div class="o-list">
 <div class="list" id="mscroll-list"></div>
 </div>
-</div><!--mscroll end-->
+</div>
 <script type="text/javascript">
 pageConfig.DATA_MScroll =[
     {
